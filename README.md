@@ -1,1 +1,3 @@
-# project_5
+# Игра "Cookie Cats"
+
+## О проекте
